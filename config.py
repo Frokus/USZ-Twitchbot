@@ -1,9 +1,13 @@
-
+# irc connectIP (not change)
 HOST = "irc.twitch.tv"
+# irc ConnectPort (not change)
 PORT = 6667
-USER = "uszbot"
-PASS = "oauth:9123m8ia4sijxb8csvx52u1tgw463a"
-CHANNEL = "unreal_studioz"
+# Twitch Botname
+USER = "Botname"
+# Twitch Oauthkey
+PASS = "outh:"
+# Twitch Channelname  
+CHANNEL = "Channelname"
 
-
+# Chat Connectmassage
 WHO_MESSAGE = "Bot Online"
